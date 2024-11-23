@@ -1095,7 +1095,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at 0 -1.5875 360)
+			(at 0 -1.5875 0)
 			(layer "B.SilkS")
 			(uuid "ee30642a-a657-4c34-b13e-3f71032536e7")
 			(effects
@@ -1107,7 +1107,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 0 -1.5875 360)
+			(at 0 -1.5875 0)
 			(layer "B.Fab")
 			(uuid "e3a2454c-c271-4653-b171-91c68a9ff79a")
 			(effects
@@ -1280,7 +1280,7 @@
 			(uuid "6fbcfa04-0c64-4944-b47b-02b6e1076489")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "c32687d0-4651-42fb-a6d0-fb7733277800")
 			(effects
@@ -6419,7 +6419,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0.15625 1.5875 360)
+			(at 0.15625 1.5875 0)
 			(layer "B.SilkS")
 			(uuid "e1ec8038-9cf7-40ae-ab80-9c94d9b3270b")
 			(effects
@@ -6431,7 +6431,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 0 -1.68 360)
+			(at 0 -1.68 0)
 			(layer "B.Fab")
 			(uuid "8697a458-7c2f-4d54-996f-12163e38afe2")
 			(effects
@@ -6604,7 +6604,7 @@
 			(uuid "14c0a609-7894-4f22-af8d-93d6a0edf0d9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "8e8a8cb8-75cc-4c69-9df7-0ce1332efbdb")
 			(effects
@@ -10966,7 +10966,7 @@
 			)
 		)
 		(property "Value" "5.1k"
-			(at 0 -1.65 360)
+			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "6fa11232-7523-4ac2-a15d-11b4630d2d7b")
 			(effects
@@ -11139,7 +11139,7 @@
 			(uuid "9f8fc6c2-dd0a-43f6-a28a-26d37cb651fa")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "fe881327-0bdd-4603-805b-fd936dad1f9e")
 			(effects
@@ -11529,7 +11529,7 @@
 			)
 		)
 		(property "Value" "5.1k"
-			(at 0 -1.65 360)
+			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "765b7db2-5b9e-44e4-9cd4-86921900e295")
 			(effects
@@ -11702,7 +11702,7 @@
 			(uuid "d045d2d9-65db-47b4-996d-51d75f6ecab4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "4f4b43f2-1673-48b2-ac5c-38d223817803")
 			(effects
@@ -13328,7 +13328,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 0 -2.605 360)
+			(at 0 -2.605 0)
 			(layer "B.Fab")
 			(uuid "afcaa652-e348-45eb-8066-e7ae112912bf")
 			(effects
@@ -13340,7 +13340,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "13c394e8-ce91-4a1a-b368-be25a1e82378")
@@ -13353,7 +13353,7 @@
 			)
 		)
 		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20161024/1477288764689.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3100f392-5cee-4dab-a8a1-0e1e61fdb913")
@@ -13366,7 +13366,7 @@
 			)
 		)
 		(property "Description" "Reverse Stand-Off Voltage (Vrwm):5V Maximum Clamping Voltage:12V Peak Pulse Current (Ipp)@10/1000us:1A@8/20us Breakdown Voltage:6V Type:TVS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bfa876df-e14e-4f84-be15-e905f03373bc")
