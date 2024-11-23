@@ -1,0 +1,47 @@
+### Footprint positions - created on 2024-11-21T23:56:32-0500 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                               PosX       PosY       Rot  Side
+C1        1uF                  C_0805_2012Metric                 249.2375  -101.7562   90.0000  bottom
+C2        100nF                C_0805_2012Metric                 233.3625  -105.7250   90.0000  bottom
+C3        100nF                C_0805_2012Metric                 237.1750   -93.6625  180.0000  bottom
+C4        100nF                C_0805_2012Metric                 245.1125   -93.6625    0.0000  bottom
+C5        100nF                C_0805_2012Metric                 245.9062  -109.5375    0.0000  bottom
+C6        10uF                 C_0805_2012Metric                 249.2375   -97.4750  -90.0000  bottom
+C7        22pF                 C_0805_2012Metric                 237.7875  -110.1750  -90.0000  bottom
+C8        22pF                 C_0805_2012Metric                 245.9062  -111.9187    0.0000  bottom
+D1        D_Small              D_SOD-123                         176.2125   -72.2313   90.0000  bottom
+D2        D_Small              D_SOD-123                         195.2625   -72.0438   90.0000  bottom
+D3        D_Small              D_SOD-123                         176.2125   -91.2188   90.0000  bottom
+D4        D_Small              D_SOD-123                         195.2625   -91.2188   90.0000  bottom
+D5        D_Small              D_SOD-123                         176.2125  -110.3312   90.0000  bottom
+D6        D_Small              D_SOD-123                         176.2125  -129.3812   90.0000  bottom
+D7        D_Small              D_SOD-123                         195.2625  -110.3312   90.0000  bottom
+D8        D_Small              D_SOD-123                         195.2625  -129.3812   90.0000  bottom
+D9        D_Small              D_SOD-123                         214.3125   -72.1688   90.0000  bottom
+D10       D_Small              D_SOD-123                         214.3125   -91.2188   90.0000  bottom
+D11       D_Small              D_SOD-123                         233.3625   -72.1688   90.0000  bottom
+D12       D_Small              D_SOD-123                         234.1562   -90.4250  -90.0000  bottom
+D13       D_Small              D_SOD-123                         212.7250  -111.9187   90.0000  bottom
+D14       D_Small              D_SOD-123                         214.3125  -129.3812   90.0000  bottom
+D16       D_Small              D_SOD-123                         234.1562  -128.6500  -90.0000  bottom
+D17       D_Small              D_SOD-123                         264.3187   -72.1688   90.0000  bottom
+D18       D_Small              D_SOD-123                         264.3187   -91.2188   90.0000  bottom
+D19       D_Small              D_SOD-123                         264.3187  -110.3312   90.0000  bottom
+D20       D_Small              D_SOD-123                         264.3187  -129.3812   90.0000  bottom
+D21       D_Small              D_SOD-123                         185.7375  -148.3063   90.0000  bottom
+D23       D_Small              D_SOD-123                         212.7250  -149.9562   90.0000  bottom
+D25       D_Small              D_SOD-123                         264.3187  -148.4313   90.0000  bottom
+F1        500mA                Fuse_1206_3216Metric              236.2200   -69.1750  -90.0000  bottom
+J1        USB4085-GF-A_REVB    GCT_USB4085-GF-A_REVB             240.7625   -61.0535    0.0000  bottom
+R1        10k                  R_0805_2012Metric                 233.3625   -99.2188  -90.0000  bottom
+R2        22                   R_0805_2012Metric                 243.2050   -69.0562   90.0000  bottom
+R3        22                   R_0805_2012Metric                 240.8237   -69.0562  -90.0000  bottom
+R4        10k                  R_0805_2012Metric                 241.1812  -125.4125    0.0000  bottom
+R5        5.1k                 R_0805_2012Metric                 238.6012   -69.0562  -90.0000  bottom
+R6        5.1k                 R_0805_2012Metric                 245.7450   -69.0562  -90.0000  bottom
+S1        8-1437565-1          SW_8-1437565-1                    240.9875  -132.5812  -90.0000  bottom
+U1        ATmega32U4-A         TQFP-44_10x10mm_P0.8mm            241.2750  -101.4562  180.0000  bottom
+Y1        Crystal_GND24_Small  Crystal_SMD_3225-4Pin_3.2x2.5mm   241.4500  -110.2750    0.0000  bottom
+## End

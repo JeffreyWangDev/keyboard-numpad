@@ -1,0 +1,21 @@
+Comment,Designator,Footprint,LCSC
+Power,"5V+2, GND1",TestPoint:TestPoint_Pad_1.0x1.0mm,
+1uF,C1,Capacitor_SMD:C_0805_2012Metric,C28323
+100nF,"C2, C3, C4, C5",Capacitor_SMD:C_0805_2012Metric,C49678
+10uF,C6,Capacitor_SMD:C_0805_2012Metric,C15850
+22pF,"C7, C8",Capacitor_SMD:C_0805_2012Metric,C17561
+SW_Push,"Custom-1, Custom-2, Custom-3, Custom-4, Custom-5, Key_1, Key_2, Key_3, Key_4, Key_5, Key_6, Key_7, Key_8, Key_9, Key_*1, Key_-1, Key_/1, Key_del1, NumLock1",MX_keys:MX-Hotswap-1U,C41430893
+D_Small,"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D16, D17, D18, D19, D20, D21, D23, D25",Diode_SMD:D_SOD-123,C64898
+D+,D+1,TestPoint:TestPoint_Pad_1.0x1.0mm,
+D-,D-1,TestPoint:TestPoint_Pad_1.0x1.0mm,
+500mA,F2,Fuse:Fuse_1206_3216Metric,C70076
+TYPE-C-31-M-12,J2,USB-C:HRO_TYPE-C-31-M-12,C165948
+SW_Push_U2,Key_0,Button_Switch_Keyboard:MX-Hotswap-2U-ReversedStabilizers,C41430893
+SW_Push_U2,"Key_+1, Key_enter1",Button_Switch_Keyboard:MX-Hotswap-2U-Vertical-ReversedStabilizers,C41430893
+10k,"R1, R4",Resistor_SMD:R_0805_2012Metric,C17414
+22,"R2, R3",Resistor_SMD:R_0805_2012Metric,C17561
+5.1k,"R7, R8",Resistor_SMD:R_0805_2012Metric,C27834
+TS-1187A-B-A-B,S2,USB-C:SW_TS-1187A-B-A-B,C318884
+~,TV1,Button_Switch_Keyboard:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR,C85364
+ATmega32U4-A,U1,Package_QFP:TQFP-44_10x10mm_P0.8mm,
+Crystal_GND24_Small,Y1,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738

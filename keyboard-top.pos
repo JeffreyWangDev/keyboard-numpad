@@ -1,0 +1,28 @@
+### Footprint positions - created on 2024-11-21T23:56:32-0500 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref       Val         Package                      PosX       PosY       Rot  Side
+Custom-1    SW_Push     MX-Hotswap-1U            256.3812   -69.8500    0.0000  top
+Custom-2    SW_Push     MX-Hotswap-1U            256.3812   -88.9000    0.0000  top
+Custom-3    SW_Push     MX-Hotswap-1U            256.3812  -107.9500    0.0000  top
+Custom-4    SW_Push     MX-Hotswap-1U            256.3812  -127.0000    0.0000  top
+Custom-5    SW_Push     MX-Hotswap-1U            256.3812  -146.0500    0.0000  top
+Key_*1      SW_Push     MX-Hotswap-1U            206.3750   -69.8500    0.0000  top
+Key_+1      SW_Push_U2  MX-Hotswap-2U-Vertical   225.4250   -98.4250    0.0000  top
+Key_-1      SW_Push     MX-Hotswap-1U            225.4250   -69.8500    0.0000  top
+Key_/1      SW_Push     MX-Hotswap-1U            187.3250   -69.8500    0.0000  top
+Key_0       SW_Push_U2  MX-Hotswap-2U            177.8000  -146.0500    0.0000  top
+Key_1       SW_Push     MX-Hotswap-1U            168.2750  -127.0000    0.0000  top
+Key_2       SW_Push     MX-Hotswap-1U            187.3250  -127.0000    0.0000  top
+Key_3       SW_Push     MX-Hotswap-1U            206.3750  -127.0000    0.0000  top
+Key_4       SW_Push     MX-Hotswap-1U            168.2750  -107.9500    0.0000  top
+Key_5       SW_Push     MX-Hotswap-1U            187.3250  -107.9500    0.0000  top
+Key_6       SW_Push     MX-Hotswap-1U            206.3750  -107.9500    0.0000  top
+Key_7       SW_Push     MX-Hotswap-1U            168.2750   -88.9000    0.0000  top
+Key_8       SW_Push     MX-Hotswap-1U            187.3250   -88.9000    0.0000  top
+Key_9       SW_Push     MX-Hotswap-1U            206.3750   -88.9000    0.0000  top
+Key_del1    SW_Push     MX-Hotswap-1U            206.3750  -146.0500    0.0000  top
+Key_enter1  SW_Push_U2  MX-Hotswap-2U-Vertical   225.4250  -136.5250    0.0000  top
+NumLock1    SW_Push     MX-Hotswap-1U            168.2750   -69.8500    0.0000  top
+## End
