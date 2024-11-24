@@ -12184,7 +12184,7 @@
 			(pintype "passive")
 			(uuid "a797d6aa-d8ff-4bf1-84a8-6f7ac072adcc")
 		)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${HOTSWAP}/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -21377,7 +21377,7 @@
 			(pintype "passive")
 			(uuid "423bc220-6a8b-46e8-86cf-32b159f7d613")
 		)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${HOTSWAP}/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -21816,7 +21816,7 @@
 			(pintype "passive")
 			(uuid "e7235ec4-7905-4725-9b97-2b6bfac86e1a")
 		)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${HOTSWAP}/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
