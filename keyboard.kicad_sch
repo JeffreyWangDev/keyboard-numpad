@@ -6560,7 +6560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:MX-Hotswap-2U-Vertical-ReversedStabilizers"
+		(property "Footprint" "Button_Switch_Keyboard:MX-Hotswap-2U-ReversedStabilizers"
 			(at 246.38 88.9 0)
 			(effects
 				(font
@@ -11283,7 +11283,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:MX-Hotswap-2U-Vertical-ReversedStabilizers"
+		(property "Footprint" "Button_Switch_Keyboard:MX-Hotswap-2U-ReversedStabilizers"
 			(at 246.38 120.65 0)
 			(effects
 				(font
