@@ -251,4 +251,15 @@
 		(layers "B.Cu" "B.Paste" "B.Mask")
 		(uuid "4b357202-b4f1-4aac-91f1-759e975ae30f")
 	)
+	(model "C:/Users/25wan/Downloads/sk6812mini-e-1.snapshot.3/LED_SK6812MINI-E.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

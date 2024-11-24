@@ -1,4 +1,4 @@
-24056428674731011
+24059894772956565
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67901,6 +67901,20 @@ C0603
 2
 MyLiB
 LED-SMD_L3.2-W2.8-TR
+
+
+0
+4
+4
+MyLiB
+MX-SK-E-Left_Right
+
+
+0
+4
+4
+MyLiB
+MX-SK-E-Right_Left
 
 
 0
