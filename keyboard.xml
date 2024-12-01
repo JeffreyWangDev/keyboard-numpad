@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\25wan\Documents\GitHub\keyboard-numpad\keyboard.kicad_sch</source>
-    <date>2024-11-23T01:05:31-0500</date>
+    <date>2024-11-30T15:22:45-0500</date>
     <tool>Eeschema 8.0.6</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -193,12 +193,407 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2a2d8099-0747-45aa-a015-b2d8a5bd2929</tstamps>
     </comp>
+    <comp ref="C9">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c5ee9ee-87ae-460a-8297-2e390f67756c</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="LCSC">C49678</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C49678"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fc272e3-31d2-440d-bfc5-5637bb8587cf</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ad16395-18bd-4a72-8e0b-6880997289ac</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e3d2dc7-a67d-4129-a531-1fc24f5fca6d</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bfd528b2-7c60-46f3-936e-7f34394d6c68</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7616de84-e47b-4c2e-b450-7309bc6a3271</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aef633b9-e3ca-4fc9-abca-d41d796f4f35</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80c2f561-83dd-4b23-9952-5cd0fec27d47</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2591837-f390-4994-8a6f-0f12bd1c62bb</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dfd2404-ab47-47dd-9b2e-cfd4e5898805</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15d628d4-d179-400d-add1-d6633fb87116</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8fa8743-531e-4ce1-a361-95b96369f3eb</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>baed7a1d-c6ef-4c3f-8178-acb9891b71ed</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>871054fa-639c-4051-bdc1-95f76ee08d43</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a4c72d1-f688-4fc6-92ba-efc456e9b751</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca62189e-784e-404e-b3f2-f1be01c3d0ab</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23dde4fc-cf17-4d9e-ab4b-f51f9162ec4e</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>10uf</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="LCSC">C15850</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17338760-2e00-4b62-a33a-1399ad76d633</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efd1537f-a251-4502-aaf3-d5114bce8333</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d19a158-e4bb-47be-97be-f1989fa8a618</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47b87d6a-5977-405a-9950-94d0faa5175a</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f35d61a-58c6-44cf-898d-c92aaf8169c6</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fd8baaf-e4ea-4edf-a0a2-51efa460582f</tstamps>
+    </comp>
     <comp ref="Custom-1">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -211,10 +606,10 @@
     </comp>
     <comp ref="Custom-2">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -227,10 +622,10 @@
     </comp>
     <comp ref="Custom-3">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -243,10 +638,10 @@
     </comp>
     <comp ref="Custom-4">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -259,10 +654,10 @@
     </comp>
     <comp ref="Custom-5">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -835,10 +1230,10 @@
     </comp>
     <comp ref="Key_*1">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -851,10 +1246,10 @@
     </comp>
     <comp ref="Key_+1">
       <value>SW_Push_U2</value>
-      <footprint>Button_Switch_Keyboard:MX-Hotswap-2U-Vertical-ReversedStabilizers</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">Button_Switch_Keyboard:MX-Hotswap-2U-Vertical-ReversedStabilizers</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -867,10 +1262,10 @@
     </comp>
     <comp ref="Key_-1">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -883,10 +1278,10 @@
     </comp>
     <comp ref="Key_/1">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -899,10 +1294,10 @@
     </comp>
     <comp ref="Key_0">
       <value>SW_Push_U2</value>
-      <footprint>Button_Switch_Keyboard:MX-Hotswap-2U-ReversedStabilizers</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">Button_Switch_Keyboard:MX-Hotswap-2U-ReversedStabilizers</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -915,10 +1310,10 @@
     </comp>
     <comp ref="Key_1">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -931,10 +1326,10 @@
     </comp>
     <comp ref="Key_2">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -947,10 +1342,10 @@
     </comp>
     <comp ref="Key_3">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -963,10 +1358,10 @@
     </comp>
     <comp ref="Key_4">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -979,10 +1374,10 @@
     </comp>
     <comp ref="Key_5">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -995,10 +1390,10 @@
     </comp>
     <comp ref="Key_6">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -1011,10 +1406,10 @@
     </comp>
     <comp ref="Key_7">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -1027,10 +1422,10 @@
     </comp>
     <comp ref="Key_8">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -1043,10 +1438,10 @@
     </comp>
     <comp ref="Key_9">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -1059,10 +1454,10 @@
     </comp>
     <comp ref="Key_del1">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -1075,10 +1470,10 @@
     </comp>
     <comp ref="Key_enter1">
       <value>SW_Push_U2</value>
-      <footprint>Button_Switch_Keyboard:MX-Hotswap-2U-Vertical-ReversedStabilizers</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">Button_Switch_Keyboard:MX-Hotswap-2U-Vertical-ReversedStabilizers</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
@@ -1091,14 +1486,16 @@
     </comp>
     <comp ref="NumLock1">
       <value>SW_Push</value>
-      <footprint>MX_keys:MX-Hotswap-1U</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
-        <field name="Footprint">MX_keys:MX-Hotswap-1U</field>
+        <field name="LCSC">C41430893</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="LCSC" value="C41430893"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="keyboard.kicad_sch"/>
       <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
@@ -1181,6 +1578,23 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>16e7722b-01b6-40e3-8f3a-db65fbeb9ee0</tstamps>
     </comp>
+    <comp ref="R5">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small US symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small US symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7723dfcf-87d0-4f81-bb03-ed76543d3571</tstamps>
+    </comp>
     <comp ref="R7">
       <value>5.1k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
@@ -1243,6 +1657,33 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f311010c-8446-4084-ab70-861d70cad793</tstamps>
     </comp>
+    <comp ref="SW1">
+      <value>~</value>
+      <footprint>MyLiB:SW-TH_MK-12D18-G040</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20201201/C963202_825FB742C5BA766BED52E1DDA96DE5A3.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">MK-12D18-G020</field>
+        <field name="Manufacturer">G-Switch(品赞)</field>
+        <field name="Supplier Part">C3019727</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">边三脚微型拨动开关G4</field>
+        <field name="LSCS">C3019727</field>
+        <field name="Footprint">MyLiB:SW-TH_MK-12D18-G040</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20201201/C963202_825FB742C5BA766BED52E1DDA96DE5A3.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="MK-12D18-G020" description=""/>
+      <property name="Manufacturer Part" value="MK-12D18-G020"/>
+      <property name="Manufacturer" value="G-Switch(品赞)"/>
+      <property name="Supplier Part" value="C3019727"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="边三脚微型拨动开关G4"/>
+      <property name="LSCS" value="C3019727"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6e4a5b5-13e9-4e79-a5cd-f3a629dcb008</tstamps>
+    </comp>
     <comp ref="TV1">
       <value>~</value>
       <footprint>Button_Switch_Keyboard:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR</footprint>
@@ -1254,6 +1695,7 @@
         <field name="Supplier Part">C85364</field>
         <field name="Supplier">LCSC</field>
         <field name="LCSC Part Name">SRV05-4-P-T7</field>
+        <field name="LSCS">C85364</field>
         <field name="Footprint">Button_Switch_Keyboard:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR</field>
         <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20161024/1477288764689.pdf</field>
         <field name="Description">Reverse Stand-Off Voltage (Vrwm):5V Maximum Clamping Voltage:12V Peak Pulse Current (Ipp)@10/1000us:1A@8/20us Breakdown Voltage:6V Type:TVS</field>
@@ -1264,6 +1706,7 @@
       <property name="Supplier Part" value="C85364"/>
       <property name="Supplier" value="LCSC"/>
       <property name="LCSC Part Name" value="SRV05-4-P-T7"/>
+      <property name="LSCS" value="C85364"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="keyboard.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1286,6 +1729,600 @@
       <property name="ki_fp_filters" value="TQFP*10x10mm*P0.8mm*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3d979b3b-4261-487b-81d2-3afb45bffa3a</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Left_Right</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Left_Right</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64fa9e05-5930-4e17-87f1-12c46e3f7030</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Left_Right</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Left_Right</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bd74a09-b841-400d-88aa-c25631155906</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Left_Right</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Left_Right</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd446027-5cd3-435e-92a7-15b8671c9a97</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Left_Right</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Left_Right</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dde31a94-e1d2-40b4-a67c-e08b4ad99646</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Left_Right</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Left_Right</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ddcbffe-2964-4eab-a8a7-f7db8bce376a</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Right_Left</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Right_Left</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a128648-cc7c-480a-9b10-55a602c7e22a</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Right_Left</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Right_Left</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f569bad-f46e-4538-85a1-12657816bcc7</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Right_Left</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Right_Left</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>503a7156-ba17-463b-af18-6a5a7fb7226d</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Right_Left</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Right_Left</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6158a5d9-5eb3-4881-9f87-e4c22b8d9166</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Right_Left</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Right_Left</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2b0e8a3-4ac0-487b-9dab-6922ddca969a</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Left_Right</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Left_Right</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0afbf69f-d79d-4778-ba74-c28524d6a92d</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Left_Right</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Left_Right</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c948138-d055-4e08-95f6-6de997b8270c</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Left_Right</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Left_Right</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e07763fc-2c1d-4670-8018-99fb56a408dc</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Left_Right</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Left_Right</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ffda758-6e1e-4421-8ef6-700f449f3c4c</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Right_Left</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Right_Left</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3526df5d-7d9d-4d1d-b55c-819c35aac72a</tstamps>
+    </comp>
+    <comp ref="U17">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Right_Left</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Right_Left</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b8541c4-14b8-425c-bb38-0755facfadf6</tstamps>
+    </comp>
+    <comp ref="U18">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Right_Left</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Right_Left</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b06fe089-dde4-4479-9c0d-856bf8844305</tstamps>
+    </comp>
+    <comp ref="U20">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Right_Left</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Right_Left</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>210d4c97-d20d-4d37-badc-9b2c98285ba2</tstamps>
+    </comp>
+    <comp ref="U21">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Right_Left</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Right_Left</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68e0e9bb-f013-449a-bb12-43365e49001e</tstamps>
+    </comp>
+    <comp ref="U22">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Left_Right</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Left_Right</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0db9724e-c69c-414c-9f43-08649f4e3515</tstamps>
+    </comp>
+    <comp ref="U23">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Left_Right</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Left_Right</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2ecf8b4-9d58-4a36-80e7-fe32335a6173</tstamps>
+    </comp>
+    <comp ref="U24">
+      <value>~</value>
+      <footprint>MyLiB:MX-SK-E-Left_Right</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+        <field name="Footprint">MyLiB:MX-SK-E-Left_Right</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MyLib" part="SK6812MINI-E_C5149201" description=""/>
+      <property name="Manufacturer Part" value="SK6812MINI-E"/>
+      <property name="Manufacturer" value="欧思科光电"/>
+      <property name="Supplier Part" value="C5149201"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="LCSC Part Name" value="SK6812MINI-E"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e6b67f5-c246-4881-a1bc-1907dd5e5053</tstamps>
     </comp>
     <comp ref="Y1">
       <value>Crystal_GND24_Small</value>
@@ -1484,6 +2521,63 @@
         <pin num="44" name="AVCC" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+    </libpart>
+    <libpart lib="MyLib" part="MK-12D18-G020">
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20201201/C963202_825FB742C5BA766BED52E1DDA96DE5A3.pdf</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value"/>
+        <field name="Footprint">ProLib_pcs_2024-11-24:SW-TH_MK-12D18-G040</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20201201/C963202_825FB742C5BA766BED52E1DDA96DE5A3.pdf</field>
+        <field name="Description"/>
+        <field name="Manufacturer Part">MK-12D18-G020</field>
+        <field name="Manufacturer">G-Switch(品赞)</field>
+        <field name="Supplier Part">C3019727</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">边三脚微型拨动开关G4</field>
+        <field name="LSCS">C3019727</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="MyLib" part="SK6812MINI-E_C5149201">
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value"/>
+        <field name="Footprint">ProLib_pcs_2024-11-23:LED-SMD_L3.2-W2.8-TR</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20240708/7577C013CD62BC7D192EAA1AF5B38052.pdf</field>
+        <field name="Description"/>
+        <field name="Manufacturer Part">SK6812MINI-E</field>
+        <field name="Manufacturer">欧思科光电</field>
+        <field name="Supplier Part">C5149201</field>
+        <field name="Supplier">LCSC</field>
+        <field name="LCSC Part Name">SK6812MINI-E</field>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="unspecified"/>
+        <pin num="2" name="DOUT" type="unspecified"/>
+        <pin num="3" name="GND" type="unspecified"/>
+        <pin num="4" name="DIN" type="unspecified"/>
+      </pins>
+    </libpart>
     <libpart lib="MyLib" part="SRV05-4-P-T7">
       <description>Reverse Stand-Off Voltage (Vrwm):5V Maximum Clamping Voltage:12V Peak Pulse Current (Ipp)@10/1000us:1A@8/20us Breakdown Voltage:6V Type:TVS </description>
       <docs>https://atta.szlcsc.com/upload/public/pdf/source/20161024/1477288764689.pdf</docs>
@@ -1586,8 +2680,11 @@
     <library logical="MCU_Microchip_ATmega">
       <uri>C:\Users\25wan\AppData\Local\Programs\KiCad\8.0\share\kicad\symbols\/MCU_Microchip_ATmega.kicad_sym</uri>
     </library>
+    <library logical="Mechanical">
+      <uri>C:\Users\25wan\AppData\Local\Programs\KiCad\8.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
     <library logical="MyLib">
-      <uri>C:\Users\25wan\Documents\KiCad\8.0\symbols\MyLib.kicad_sym</uri>
+      <uri>C:/Users/25wan/Documents/KiCad/8.0/symbols/MyLib.kicad_sym</uri>
     </library>
     <library logical="Switch">
       <uri>C:\Users\25wan\AppData\Local\Programs\KiCad\8.0\share\kicad\symbols\/Switch.kicad_sym</uri>
@@ -1597,12 +2694,14 @@
     <net code="1" name="+5V">
       <node ref="5V+2" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="C4" pin="2" pintype="passive"/>
       <node ref="C5" pin="2" pintype="passive"/>
       <node ref="C6" pin="2" pintype="passive"/>
       <node ref="F2" pin="2" pintype="passive"/>
       <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="unspecified"/>
       <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
       <node ref="U1" pin="2" pinfunction="UVCC" pintype="power_in"/>
       <node ref="U1" pin="24" pinfunction="AVCC" pintype="power_in"/>
@@ -1636,13 +2735,36 @@
     </net>
     <net code="6" name="GND">
       <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
       <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
       <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
       <node ref="GND1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="J2" pin="A1_B12" pinfunction="GND" pintype="power_in"/>
       <node ref="J2" pin="B1_A12" pinfunction="GND" pintype="power_in"/>
@@ -1661,136 +2783,297 @@
       <node ref="U1" pin="35" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="43" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="UGND" pintype="passive"/>
+      <node ref="U10" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U11" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U12" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U13" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U14" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U15" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U16" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U17" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U18" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U20" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U21" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U22" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U23" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U24" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U4" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U6" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U7" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U8" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U9" pin="3" pinfunction="GND" pintype="unspecified"/>
       <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
     </net>
-    <net code="7" name="Net-(D1-A)">
+    <net code="7" name="LEDP">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U10" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U11" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U12" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U13" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U14" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U15" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U16" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U17" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U18" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U2" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U20" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U21" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U22" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U23" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U24" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U3" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U4" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U5" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U6" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U7" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U8" pin="1" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U9" pin="1" pinfunction="VDD" pintype="unspecified"/>
+    </net>
+    <net code="8" name="LED_DATA_1">
+      <node ref="U10" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U11" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="9" name="LED_DATA_2">
+      <node ref="U18" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U20" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="10" name="LED_DATA_IN">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="11" name="Net-(D1-A)">
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="NumLock1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="8" name="Net-(D2-A)">
+    <net code="12" name="Net-(D2-A)">
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_/1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="9" name="Net-(D3-A)">
+    <net code="13" name="Net-(D3-A)">
       <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_7" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="10" name="Net-(D4-A)">
+    <net code="14" name="Net-(D4-A)">
       <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_8" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="11" name="Net-(D5-A)">
+    <net code="15" name="Net-(D5-A)">
       <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_4" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="12" name="Net-(D6-A)">
+    <net code="16" name="Net-(D6-A)">
       <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="13" name="Net-(D7-A)">
+    <net code="17" name="Net-(D7-A)">
       <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_5" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="14" name="Net-(D8-A)">
+    <net code="18" name="Net-(D8-A)">
       <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_2" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="15" name="Net-(D9-A)">
+    <net code="19" name="Net-(D9-A)">
       <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_*1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="16" name="Net-(D10-A)">
+    <net code="20" name="Net-(D10-A)">
       <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_9" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="17" name="Net-(D11-A)">
+    <net code="21" name="Net-(D11-A)">
       <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_-1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="18" name="Net-(D12-A)">
+    <net code="22" name="Net-(D12-A)">
       <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_+1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="19" name="Net-(D13-A)">
+    <net code="23" name="Net-(D13-A)">
       <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_6" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="20" name="Net-(D14-A)">
+    <net code="24" name="Net-(D14-A)">
       <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_3" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="21" name="Net-(D16-A)">
+    <net code="25" name="Net-(D16-A)">
       <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_enter1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="22" name="Net-(D17-A)">
+    <net code="26" name="Net-(D17-A)">
       <node ref="Custom-1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="23" name="Net-(D18-A)">
+    <net code="27" name="Net-(D18-A)">
       <node ref="Custom-2" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="24" name="Net-(D19-A)">
+    <net code="28" name="Net-(D19-A)">
       <node ref="Custom-3" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="25" name="Net-(D20-A)">
+    <net code="29" name="Net-(D20-A)">
       <node ref="Custom-4" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="26" name="Net-(D21-A)">
+    <net code="30" name="Net-(D21-A)">
       <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_0" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="27" name="Net-(D23-A)">
+    <net code="31" name="Net-(D23-A)">
       <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Key_del1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="28" name="Net-(D25-A)">
+    <net code="32" name="Net-(D25-A)">
       <node ref="Custom-5" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="29" name="Net-(U1-D+)">
+    <net code="33" name="Net-(U1-D+)">
       <node ref="R2" pin="1" pintype="passive"/>
       <node ref="U1" pin="4" pinfunction="D+" pintype="bidirectional"/>
     </net>
-    <net code="30" name="Net-(U1-D-)">
+    <net code="34" name="Net-(U1-D-)">
       <node ref="R3" pin="2" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="D-" pintype="bidirectional"/>
     </net>
-    <net code="31" name="Net-(U1-UCAP)">
+    <net code="35" name="Net-(U1-PF0)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="PF0" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="Net-(U1-UCAP)">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="U1" pin="6" pinfunction="UCAP" pintype="passive"/>
     </net>
-    <net code="32" name="Net-(U1-XTAL1)">
+    <net code="37" name="Net-(U1-XTAL1)">
       <node ref="C7" pin="1" pintype="passive"/>
       <node ref="U1" pin="17" pinfunction="XTAL1" pintype="input"/>
       <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="33" name="Net-(U1-XTAL2)">
+    <net code="38" name="Net-(U1-XTAL2)">
       <node ref="C8" pin="1" pintype="passive"/>
       <node ref="U1" pin="16" pinfunction="XTAL2" pintype="output"/>
       <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="34" name="Net-(U1-~{HWB}{slash}PE2)">
+    <net code="39" name="Net-(U1-~{HWB}{slash}PE2)">
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="U1" pin="33" pinfunction="~{HWB}/PE2" pintype="bidirectional"/>
     </net>
-    <net code="35" name="Net-(U1-~{RESET})">
+    <net code="40" name="Net-(U1-~{RESET})">
       <node ref="R4" pin="2" pintype="passive"/>
       <node ref="S2" pin="C" pintype="passive"/>
       <node ref="S2" pin="D" pintype="passive"/>
       <node ref="U1" pin="13" pinfunction="~{RESET}" pintype="input"/>
     </net>
-    <net code="36" name="VCC">
+    <net code="41" name="Net-(U2-DOUT)">
+      <node ref="U2" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U3" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="42" name="Net-(U3-DOUT)">
+      <node ref="U3" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U4" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="43" name="Net-(U4-DOUT)">
+      <node ref="U4" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U5" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="44" name="Net-(U5-DOUT)">
+      <node ref="U5" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U6" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="45" name="Net-(U6-DOUT)">
+      <node ref="U6" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U7" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="46" name="Net-(U7-DOUT)">
+      <node ref="U7" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U8" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="47" name="Net-(U8-DOUT)">
+      <node ref="U8" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U9" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="48" name="Net-(U10-DIN)">
+      <node ref="U10" pin="4" pinfunction="DIN" pintype="unspecified"/>
+      <node ref="U9" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+    </net>
+    <net code="49" name="Net-(U11-DOUT)">
+      <node ref="U11" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U12" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="50" name="Net-(U12-DOUT)">
+      <node ref="U12" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U13" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="51" name="Net-(U13-DOUT)">
+      <node ref="U13" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U14" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="52" name="Net-(U14-DOUT)">
+      <node ref="U14" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U15" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="53" name="Net-(U15-DOUT)">
+      <node ref="U15" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U16" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="54" name="Net-(U16-DOUT)">
+      <node ref="U16" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U17" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="55" name="Net-(U17-DOUT)">
+      <node ref="U17" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U18" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="56" name="Net-(U20-DOUT)">
+      <node ref="U20" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U21" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="57" name="Net-(U21-DOUT)">
+      <node ref="U21" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U22" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="58" name="Net-(U22-DOUT)">
+      <node ref="U22" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U23" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="59" name="Net-(U23-DOUT)">
+      <node ref="U23" pin="2" pinfunction="DOUT" pintype="unspecified"/>
+      <node ref="U24" pin="4" pinfunction="DIN" pintype="unspecified"/>
+    </net>
+    <net code="60" name="VCC">
       <node ref="F2" pin="1" pintype="passive"/>
       <node ref="J2" pin="A4_B9" pinfunction="VBUS" pintype="power_in"/>
       <node ref="J2" pin="B4_A9" pinfunction="VBUS" pintype="power_in"/>
       <node ref="TV1" pin="5" pinfunction="5" pintype="input"/>
     </net>
-    <net code="37" name="X0">
+    <net code="61" name="X0">
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
@@ -1798,36 +3081,36 @@
       <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U1" pin="36" pinfunction="PF7" pintype="bidirectional"/>
     </net>
-    <net code="38" name="X1">
+    <net code="62" name="X1">
       <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U1" pin="37" pinfunction="PF6" pintype="bidirectional"/>
     </net>
-    <net code="39" name="X2">
+    <net code="63" name="X2">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U1" pin="40" pinfunction="PF1" pintype="bidirectional"/>
     </net>
-    <net code="40" name="X3">
+    <net code="64" name="X3">
       <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U1" pin="39" pinfunction="PF4" pintype="bidirectional"/>
     </net>
-    <net code="41" name="X4">
+    <net code="65" name="X4">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U1" pin="38" pinfunction="PF5" pintype="bidirectional"/>
     </net>
-    <net code="42" name="Y0">
+    <net code="66" name="Y0">
       <node ref="Key_0" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Key_1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Key_4" pin="2" pinfunction="2" pintype="passive"/>
@@ -1835,14 +3118,14 @@
       <node ref="NumLock1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="29" pinfunction="PB5" pintype="bidirectional"/>
     </net>
-    <net code="43" name="Y1">
+    <net code="67" name="Y1">
       <node ref="Key_/1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Key_2" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Key_5" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Key_8" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="28" pinfunction="PB4" pintype="bidirectional"/>
     </net>
-    <net code="44" name="Y2">
+    <net code="68" name="Y2">
       <node ref="Key_*1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Key_3" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Key_6" pin="2" pinfunction="2" pintype="passive"/>
@@ -1850,13 +3133,13 @@
       <node ref="Key_del1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="27" pinfunction="PD7" pintype="bidirectional"/>
     </net>
-    <net code="45" name="Y3">
+    <net code="69" name="Y3">
       <node ref="Key_+1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Key_-1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Key_enter1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="26" pinfunction="PD6" pintype="bidirectional"/>
     </net>
-    <net code="46" name="Y4">
+    <net code="70" name="Y4">
       <node ref="Custom-1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Custom-2" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Custom-3" pin="2" pinfunction="2" pintype="passive"/>
@@ -1864,59 +3147,62 @@
       <node ref="Custom-5" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="9" pinfunction="PB1" pintype="bidirectional"/>
     </net>
-    <net code="47" name="unconnected-(J2-SBU1-PadA8)">
+    <net code="71" name="unconnected-(J2-SBU1-PadA8)">
       <node ref="J2" pin="A8" pinfunction="SBU1" pintype="bidirectional"/>
     </net>
-    <net code="48" name="unconnected-(J2-SBU2-PadB8)">
+    <net code="72" name="unconnected-(J2-SBU2-PadB8)">
       <node ref="J2" pin="B8" pinfunction="SBU2" pintype="bidirectional"/>
     </net>
-    <net code="49" name="unconnected-(U1-AREF-Pad42)">
+    <net code="73" name="unconnected-(SW1-Pad3)">
+      <node ref="SW1" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="74" name="unconnected-(U1-AREF-Pad42)">
       <node ref="U1" pin="42" pinfunction="AREF" pintype="passive"/>
     </net>
-    <net code="50" name="unconnected-(U1-PB0-Pad8)">
+    <net code="75" name="unconnected-(U1-PB0-Pad8)">
       <node ref="U1" pin="8" pinfunction="PB0" pintype="bidirectional"/>
     </net>
-    <net code="51" name="unconnected-(U1-PB2-Pad10)">
+    <net code="76" name="unconnected-(U1-PB2-Pad10)">
       <node ref="U1" pin="10" pinfunction="PB2" pintype="bidirectional"/>
     </net>
-    <net code="52" name="unconnected-(U1-PB3-Pad11)">
+    <net code="77" name="unconnected-(U1-PB3-Pad11)">
       <node ref="U1" pin="11" pinfunction="PB3" pintype="bidirectional"/>
     </net>
-    <net code="53" name="unconnected-(U1-PB6-Pad30)">
+    <net code="78" name="unconnected-(U1-PB6-Pad30)">
       <node ref="U1" pin="30" pinfunction="PB6" pintype="bidirectional"/>
     </net>
-    <net code="54" name="unconnected-(U1-PB7-Pad12)">
+    <net code="79" name="unconnected-(U1-PB7-Pad12)">
       <node ref="U1" pin="12" pinfunction="PB7" pintype="bidirectional"/>
     </net>
-    <net code="55" name="unconnected-(U1-PC6-Pad31)">
+    <net code="80" name="unconnected-(U1-PC6-Pad31)">
       <node ref="U1" pin="31" pinfunction="PC6" pintype="bidirectional"/>
     </net>
-    <net code="56" name="unconnected-(U1-PC7-Pad32)">
+    <net code="81" name="unconnected-(U1-PC7-Pad32)">
       <node ref="U1" pin="32" pinfunction="PC7" pintype="bidirectional"/>
     </net>
-    <net code="57" name="unconnected-(U1-PD0-Pad18)">
+    <net code="82" name="unconnected-(U1-PD0-Pad18)">
       <node ref="U1" pin="18" pinfunction="PD0" pintype="bidirectional"/>
     </net>
-    <net code="58" name="unconnected-(U1-PD1-Pad19)">
+    <net code="83" name="unconnected-(U1-PD1-Pad19)">
       <node ref="U1" pin="19" pinfunction="PD1" pintype="bidirectional"/>
     </net>
-    <net code="59" name="unconnected-(U1-PD2-Pad20)">
+    <net code="84" name="unconnected-(U1-PD2-Pad20)">
       <node ref="U1" pin="20" pinfunction="PD2" pintype="bidirectional"/>
     </net>
-    <net code="60" name="unconnected-(U1-PD3-Pad21)">
+    <net code="85" name="unconnected-(U1-PD3-Pad21)">
       <node ref="U1" pin="21" pinfunction="PD3" pintype="bidirectional"/>
     </net>
-    <net code="61" name="unconnected-(U1-PD4-Pad25)">
+    <net code="86" name="unconnected-(U1-PD4-Pad25)">
       <node ref="U1" pin="25" pinfunction="PD4" pintype="bidirectional"/>
     </net>
-    <net code="62" name="unconnected-(U1-PD5-Pad22)">
+    <net code="87" name="unconnected-(U1-PD5-Pad22)">
       <node ref="U1" pin="22" pinfunction="PD5" pintype="bidirectional"/>
     </net>
-    <net code="63" name="unconnected-(U1-PE6-Pad1)">
+    <net code="88" name="unconnected-(U1-PE6-Pad1)">
       <node ref="U1" pin="1" pinfunction="PE6" pintype="bidirectional"/>
     </net>
-    <net code="64" name="unconnected-(U1-PF0-Pad41)">
-      <node ref="U1" pin="41" pinfunction="PF0" pintype="bidirectional"/>
+    <net code="89" name="unconnected-(U24-DOUT-Pad2)">
+      <node ref="U24" pin="2" pinfunction="DOUT" pintype="unspecified"/>
     </net>
   </nets>
 </export>

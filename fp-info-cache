@@ -1,4 +1,4 @@
-24146520229059751
+24167311314328124
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98265,3 +98265,87 @@ Footprint for Cherry MX style switches with Kailh hotswap socket
 0
 6
 2
+marbastlib-xp-mx
+LED_MX_WS2812_2020
+Add-on for regular MX-footprints with WS2812_2020
+cherry MX WS2812 2020 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-xp-mx
+LED_MX_WS2812_2020-ROT
+Add-on for regular MX-footprints with WS2812_2020
+cherry MX WS2812 2020 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-xp-mx
+PLATE_MX
+Break-out tabs for switch and plate multi-purpose-PCBs cherry MX footprints)
+cherry mx pcb plate break
+0
+0
+0
+marbastlib-xp-mx
+SW_MX_HS_KS-2P02B01-01_1.5u
+Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket
+
+0
+6
+2
+marbastlib-xp-mx
+SW_MX_HS_KS-2P02B01-01_1.25u
+Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket
+
+0
+6
+2
+marbastlib-xp-mx
+SW_MX_HS_KS-2P02B01-01_1.75u
+Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket
+
+0
+6
+2
+marbastlib-xp-mx
+SW_MX_HS_KS-2P02B01-01_1.75u_STP_1.5
+Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket
+
+0
+6
+2
+marbastlib-xp-mx
+SW_MX_HS_KS-2P02B01-01_1.75u_STP_1.25
+Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket
+
+0
+6
+2
+marbastlib-xp-mx
+SW_MX_HS_KS-2P02B01-01_1u
+Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket
+
+0
+6
+2
+marbastlib-xp-mx
+SW_MX_Reversible_1u
+Reversible footprint for Cherry MX style switches
+cherry mx switch
+0
+4
+2
+marbastlib-xp-mx
+SW_MX_ULP_1u
+Footprint for Cherry MX Ultra Low Profile switches
+Cherry MX ULP
+0
+7
+3
+marbastlib-xp-mx
+SW_MX_ULP_1u_handsolder
+Footprint for Cherry MX Ultra Low Profile switches
+Cherry MX ULP HS
+0
+7
+3
