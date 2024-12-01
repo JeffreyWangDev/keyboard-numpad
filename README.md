@@ -2,6 +2,9 @@
 
 This contains files and resources to design and build custom keyboard PCBs using KiCad.
 
+![image](https://github.com/user-attachments/assets/88758b60-9bc2-45d5-847e-059f0a5a4e81)
+
+
 ## Getting Started
 
 1. **Clone the Repository**:
