@@ -41,3 +41,6 @@ keyboard-numpad/
 Licensed under the MIT License. See the [LICENSE](LICENSE) file.
 
 Happy designing!
+
+## Code
+https://github.com/JeffreyWangDev/qmk_firmware/commit/e154b066790265e3da3770a5a3616bc74e3c47f7#diff-a4a6e8d4f2de04b7d767e970e2a342e9860d40d9419f873e876addc308344293
